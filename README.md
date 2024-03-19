@@ -1,6 +1,12 @@
 # 🌐 Recursos de Programação Web
 
-Bem-vindo ao repositório de recursos de programação web! Aqui você encontrará uma variedade de materiais de aula, códigos e projetos práticos projetados para alunos iniciantes e avançados no curso de programação web.
+Bem-vindo ao nosso repositório de recursos de programação web! 
+
+![Stich](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Fvetor-gratis%2Fp1%2F23450314-lilo-e-ponto-desenho-animado-poses-editorial-gratis-vetor.jpg&tbnid=eosBkIikpqBUHM&vet=12ahUKEwiX2qm4vv-EAxVZM7kGHRvMABIQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fpt.vecteezy.com%2Fvetor-gratis%2Fstitch&docid=cUXe5r4xaZd5BM&w=979&h=980&q=stitch%20vetor&client=opera-gx&ved=2ahUKEwiX2qm4vv-EAxVZM7kGHRvMABIQMygDegQIARBQ)
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fvetores-gratis%2Flaptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg&tbnid=zTN8fE0ZP9zCiM&vet=12ahUKEwjCxfr9vv-EAxUXBrkGHeJzCogQMygIegQIARBG..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Fvetores%2Fprograma&docid=98Qgft37J0QsBM&w=626&h=470&q=programing%20vetor&client=opera-gx&ved=2ahUKEwjCxfr9vv-EAxUXBrkGHeJzCogQMygIegQIARBG" alt="Texto alternativo">
+
+Aqui você encontrará:
 
 ## 📚 Conteúdo
 
@@ -49,11 +55,12 @@ Exemplos de código: Acesse a pasta exemplos-de-codigo para encontrar códigos c
 Projetos práticos: Acesse a pasta projetos-praticos para encontrar projetos prontos para serem explorados e modificados.
 Tutoriais: Acesse a pasta tutoriais para encontrar guias passo a passo para o desenvolvimento de habilidades específicas.
 Links úteis e referências: Acesse a pasta links-uteis-e-referencias para encontrar recursos adicionais para aprofundar o conhecimento.
-‍ Dúvidas e Suporte
-Caso tenha alguma dúvida ou precise de ajuda com o repositório, entre em contato comigo através do [seu canal de comunicação preferido, como e-mail, chat ou plataforma online].
+
+Dúvidas e Suporte 💕
+Caso tenha alguma dúvida ou precise de ajuda com o repositório, entre em contato comigo através do meu email mylena.santos20035@gmail.com ou do meu linkedin http://www.linkedin.com/in/mylena-santos-755b43244
 
 Aprimoramento 🚀
 Este repositório está em constante aprimoramento. Se você tiver alguma sugestão de conteúdo ou melhoria, sinta-se à vontade para contribuir através de um pull request ou issue no GitHub.
 
-Aproveite os recursos e aprenda muito com a programação web!
+Aproveite os recursos e aprenda muito com a Programação Web!
 
