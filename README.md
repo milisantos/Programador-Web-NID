@@ -2,9 +2,9 @@
 
 Bem-vindo ao nosso repositório de recursos de programação web! 
 
-![Stich](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Fvetor-gratis%2Fp1%2F23450314-lilo-e-ponto-desenho-animado-poses-editorial-gratis-vetor.jpg&tbnid=eosBkIikpqBUHM&vet=12ahUKEwiX2qm4vv-EAxVZM7kGHRvMABIQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fpt.vecteezy.com%2Fvetor-gratis%2Fstitch&docid=cUXe5r4xaZd5BM&w=979&h=980&q=stitch%20vetor&client=opera-gx&ved=2ahUKEwiX2qm4vv-EAxVZM7kGHRvMABIQMygDegQIARBQ)
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fvetores-gratis%2Flaptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg&tbnid=zTN8fE0ZP9zCiM&vet=12ahUKEwjCxfr9vv-EAxUXBrkGHeJzCogQMygIegQIARBG..i&imgrefurl=https%3A%2F%2Fbr.freepik.com%2Fvetores%2Fprograma&docid=98Qgft37J0QsBM&w=626&h=470&q=programing%20vetor&client=opera-gx&ved=2ahUKEwjCxfr9vv-EAxUXBrkGHeJzCogQMygIegQIARBG" alt="Texto alternativo">
+  <img  src="https://private-user-images.githubusercontent.com/130525330/313922166-09d23d0d-604e-4bf4-91a8-25b7fdc615c7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4MjQzMTIsIm5iZiI6MTcxMDgyNDAxMiwicGF0aCI6Ii8xMzA1MjUzMzAvMzEzOTIyMTY2LTA5ZDIzZDBkLTYwNGUtNGJmNC05MWE4LTI1YjdmZGM2MTVjNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxOVQwNDUzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZDQxOWFmM2RjNmNkYTAzNTRhNmYzZjc4ODNkY2NjOTM4NDhlMmNiMGVjMDZmNmZmYjU0MzA2ZTI2ZjQxM2Q5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6mIaDKSwxnagqHdd-b_hMT8mJ8WwODtCxNnKEcOxFOA" alt="Texto alternativo">
+
 
 Aqui você encontrará:
 
