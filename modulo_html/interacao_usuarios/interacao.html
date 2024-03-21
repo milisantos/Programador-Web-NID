@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interagindo com usuários</title>
+</head>
+
+<body>
+    <!-- Nossa segunda aula de html tem o objetivo de abordar as formas de interagirmos com os usuários atráves das tags html -->
+
+    <!-- #LINKS -->
+
+    <!-- A tag <a> pode ser usada para ligar páginas html localmente através da ligação de arquivos html-->
+    <a href="/modulo_html/interacao_usuarios/exemplo.html">Esse é o texto que aparece no navegador quando você utiliza a
+        tag a </a>
+    <!-- No atributo href esta o caminho do arquivo html que eu quero ligar nessa página principal 
+    perceba que em "/modulo_html/interacao_usuarios/exemplo.html" existe uma sequencia, onde o caminho 
+    as barras "/" dao sequencia a essa navegação pelas minhas pastas ate chegar no meu arquivo "exemplo.html" 
+    -->
+    <!-- Dessa maneira, quando o usuário clicar no texto entre as chaves da minha tag ele será direcionado
+    para a página "exemplo.html" -->
+
+    <a href="https://www.youtube.com/watch?v=mIqhl0rH0Wc">Redirecionando o usuário para uma página hospedada da
+        internet</a>
+    <!-- Aqui estou usando a tag de link para direcionar o usuário para o site do youtube
+    note que há uma diferença no valor que href recebe. Nesse caso esta recebendo uma url com "https" 
+    o que indica que a página é um site já hospedado -->
+
+    <!-- entrada de dados -->
+    <!-- 
+    A tag <input> é um elemento fundamental para a criação de formulários em HTML.
+    Ela representa um campo de entrada de dados onde o usuário pode interagir com a página. -->
+
+    <input type="text" placeholder="escreva seu nome">
+    <input type="email" placeholder="escreva seu email">
+    <input type="password" placeholder="crie sua senha">
+    <input type="number" placeholder="valor">
+
+    <!--perceba que a tag input esta acompanhada de dois atributos "type" que é usado parfa definir o 
+    tipo de dado que será recebido e "placeholder que é usado para mostrar uma descrição
+    dentro da caixa de texto "-->
+
+    <!-- #BOTÔES -->
+
+    <!-- Exemplos de uso da tag <button>: -->
+
+    <!-- Botão de envio de formulário:  -->
+    <button type="submit">Enviar</button>
+    <!-- Botão para limpar um formulário:  -->
+    <button type="reset">Limpar</button>
+
+
+
+    <!-- #FORMULÀRIOS -->
+
+    <!-- A tag <form> é o elemento fundamental usado para criar formulários interativos em páginas web. 
+        Ela funciona como um contêiner para vários elementos de formulário, como campos de texto, caixas de 
+        seleção, botões de rádio e muito mais, que permitem aos usuários inserir dados. Quando os usuários enviam
+        o formulário, os dados são enviados para um servidor para processamento. -->
+
+    <form action="#" method="post">
+        <input type="text" name="nome_de_usuario" placeholder="Digite seu nome de usuário">
+        <button type="submit">Enviar</button>
+    </form>
+    <!-- essa é a estrutura básica para criar formulários em html. Observe que aqui temos o input 
+    para a entrada de dados e o botão para enviar esses dados -->
+
+
+
+
+
+</body>
+
+</html>
