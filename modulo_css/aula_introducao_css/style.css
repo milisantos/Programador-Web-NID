@@ -1,0 +1,33 @@
+/* selecionando por elemento */
+h1{
+    color: blue; /* Define a cor do texto dos elementos <h1> como azul */
+    font-size: 30px; /* Define o tamanho da fonte dos elementos <h1> como 30px */
+    background-color: antiquewhite; /*  Define a cor de fundo dos elementos <h1> como um tom de branco amarelado. */
+
+}
+
+p{
+    text-decoration: underline; /* Aplica um sublinhado ao texto dos elementos <p>. */
+    text-transform: uppercase; /* Converte todo o texto dos elementos <p> para maiúsculas.  */
+
+}
+
+/* usando o seletor de classe */
+.explicacao{
+    text-align: center; /* Centraliza o texto dentro dos elementos que possuem a classe .explicacao. */
+    background-color: cadetblue; /* Define a cor de fundo dos elementos com a classe .explicacao como um tom de azul acinzentado. */
+    font-family: cursive; /* Define a fonte dos elementos com a classe .explicacao como uma fonte cursiva.  */
+
+}
+/* todos os atributos que colocamos nessa classe
+vão ser aplicados a os elementos dentro da section que possui essa classe.
+A section está englobando todos as tags dentro dela, por isso esse efeito
+ocorre. */
+
+/* usando seletor de id */
+#ancora{
+    text-decoration: none; /* Remove o sublinhado do texto de link padrão. */
+    font-size: 30px; /* Define o tamanho da fonte do elemento com o ID #ancora como 30px. */
+    color: whitesmoke; /* Define a cor do texto do elemento com o ID */
+    background-color:crimson; /* Define a cor de fundo do elemento com o ID */
+}
